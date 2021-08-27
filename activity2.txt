@@ -1,1 +1,1 @@
-from github tutorial
+This is the text file I created from github tutorial.
