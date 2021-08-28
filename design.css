@@ -7,13 +7,13 @@ body {
 /****Image sizing***/
 
 img {
-    max-width: 10%;
+    max-width: 20%;
 }
 
 #wrapper {
     max-width: 500px;
     margin: auto;
-    padding: 1%;
+    padding: 3%;
 }
 
 a {
