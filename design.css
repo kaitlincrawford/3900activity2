@@ -1,0 +1,9 @@
+/***Main section of the HTML file***/
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    max-width: fit-content;
+}
