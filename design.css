@@ -4,6 +4,19 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+/****Image sizing***/
+
 img {
-    max-width: 50%;
+    max-width: 10%;
 }
+
+#wrapper {
+    max-width: 500px;
+    margin: auto;
+    padding: 1%;
+}
+
+a {
+    text-decoration: none;
+}
+
