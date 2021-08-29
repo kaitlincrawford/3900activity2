@@ -19,7 +19,6 @@ img {
 .myimage {
     float: left;
     margin: 10px;
-    height: 100;
     border-radius: 15px;
 }
 
@@ -33,4 +32,12 @@ a {
     color: rgb(68, 167, 170);
 }
 
+/*****Header changes*****/
 
+/****First for my title***/
+
+h1 {
+   margin: 20px;
+   color: rgb(185, 142, 226); /***might remove****/
+   text-align: center;
+}
