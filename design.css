@@ -1,10 +1,10 @@
-/***Main section of the HTML file***/
+/*****Main body section of the HTML file*****/
 
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-/****Image sizing***/
+/****Image sizing and wrapping*****/
 
 img {
     max-width: 30%;
@@ -14,6 +14,11 @@ img {
     max-width: 900px;
     margin: auto;
     padding: 3%;
+}
+
+.myimage {
+    float: inline-start;
+    margin: 10px;
 }
 
 a {
