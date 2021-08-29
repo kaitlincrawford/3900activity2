@@ -15,21 +15,13 @@ img {
     margin: auto;
     padding: 3%;
 }
-/*
+
 .myimage {
     float: left;
     margin: 30px;
     border-radius: 15px;
     width: 100px;
     height: 150px;
-}
-*/
-.myimage {
-    float: left;
-    margin: 30px;
-    border-radius: 15px;
-    
-    
 }
 
 a {
@@ -60,4 +52,8 @@ h1 {
    line-height: 1;
 }
 
+/****Background color of the body*****/
 
+body {
+    color: rgb(228, 233, 252);
+}
