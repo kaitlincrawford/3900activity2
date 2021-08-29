@@ -32,6 +32,12 @@ a {
     color: rgb(68, 167, 170);
 }
 
+/****Changing link color when you click it******/
+
+a:active {
+    color: blueviolet;
+}
+
 /*****Header changes*****/
 
 /****First for my title***/
@@ -43,3 +49,5 @@ h1 {
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    line-height: 1;
 }
+
+
