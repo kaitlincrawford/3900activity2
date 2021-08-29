@@ -7,7 +7,7 @@ body {
 /****Image sizing and wrapping*****/
 
 img {
-    max-width: 30%;
+    max-width: 25%;
 }
 
 #wrapper {
@@ -15,7 +15,7 @@ img {
     margin: auto;
     padding: 3%;
 }
-
+/*
 .myimage {
     float: left;
     margin: 30px;
@@ -23,6 +23,15 @@ img {
     width: 100px;
     height: 150;
     border-radius: 10;
+}
+*/
+.myimage {
+    float: left;
+    margin: 30px;
+    border-radius: 15px;
+    width: 100px;
+    height: 150;
+    
 }
 
 a {
