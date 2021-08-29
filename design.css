@@ -4,6 +4,13 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+/****Text color of the body and background*****/
+
+body {
+    color: rgb(75, 39, 70);
+    background-color: rgb(210, 228, 255);
+}
+
 /****Image sizing and wrapping*****/
 
 img {
@@ -40,20 +47,13 @@ a:active {
     color: blueviolet;
 }
 
-/*****Header changes*****/
-
-/****First for my title***/
+/****Making changes of the header for my title***/
 
 h1 {
    margin: 20px;
-   color: rgb(185, 142, 226); /***might remove****/
+   color: rgb(185, 142, 226); 
    text-align: center;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    line-height: 1;
 }
 
-/****Background color of the body*****/
-
-body {
-    color: rgb(228, 233, 252);
-}
