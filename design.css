@@ -26,7 +26,7 @@ img {
 .myimage {
     float: left;
     margin: 30px;
-    border-radius: 15px;
+    border-image: 5%;
     border-collapse: separate;
     width: 100px;
     height: 150px;
